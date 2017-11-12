@@ -25,7 +25,7 @@
 9) Go into the `bathroom` and make three files called: `toilet.txt`, `shower.txt`, and `sink.txt`
 10) Go back to the `house` and use `ls` to see what is in that folder. (You should see `kitchen`, `bathroom`, `bedroom`, and `living_room`)
 
-### Now let's make this house a little wIlD aNd CrAzY
+### Now let's make this house a little WiLd AnD cRaZy
 11) We are going to remodel the `kitchen`. So we need to move a few things into the `living_room`:
     * Go into the `kitchen`
     * Use `mv` to move the `oven` into the `living_room`
