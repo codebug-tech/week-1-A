@@ -36,6 +36,11 @@
 13) The contractor wants to demo the whole `kitchen` from the `house` folder use `rm -rf` to delete the `kitchen` folder
 13) Lastly, put a `couch.txt` and a `tv.txt` in the `living_room` and enjoy some relaxation after all of your hard work!
 
+#### Extension
+14) Use subl to open `closet.txt` in Sublime. 
+15) Once you've opened the file in Sublime, type the phrase "Scary Monster" in the file. 
+16) Save and close the `closet.txt` file. 
+
 
 
 
