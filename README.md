@@ -14,7 +14,7 @@
 | `subl .`                            | Opens the current directory in Sublime             |
 
 ## Let's build a house 
-1) Using the `cd` command navigate to your Desktop
+1) Using the `cd` command navigate to your desktop
 2) Make a new folder called `house`
 3) Navigate into your `house` folder
 4) Make four folders inside your `house` called: `kitchen`, `bathroom`, `bedroom`, and `living_room`
